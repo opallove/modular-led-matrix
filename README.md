@@ -3,7 +3,9 @@ this is a modular led matrix that will let me build custom size and shape led ma
 
 the led matrix is using WS2812 LED's but that might change depending on further testing.
 the 8x8 matrix that is documented here is not modular. It is the first test to make sure i have my circuit boards wired correctly.
+
 IT IS NOT MODULAR YET!!!!!!!
+
 a modular version of this display is in the works and will be out of the prototyping stage around the start of next year. A finished design will be out some time after that. (not sure when that will be yet because there is some tests that need to be ran before i go all out and buy all of the circuit boards for a larger scale display.)
 
 some information about the modular display.
